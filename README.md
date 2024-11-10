@@ -1,3 +1,8 @@
+NAME:SAILAJA DONGA   
+COMPANY:CODTECH IT SOLUTIONS   
+ID:CT08DS521   
+DOMAIN:DATASCIENCE  
+DURATION:SEPTEMBER TO NOVEMBER  
 # Classification Project with Predictive Modeling
  This project builds predictive models using various classification algorithms on a labeled dataset. It covers data preprocessing, model training, evaluation, and performance comparison to determine the most suitable model for the task. The classification algorithms explored include Logistic Regression, Decision Trees, Random Forests, and Support Vector Machines (SVM).
 
